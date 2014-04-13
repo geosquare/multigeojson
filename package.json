@@ -1,0 +1,14 @@
+{
+  "name": "multigeojson",
+  "version": "0.0.0",
+  "description": "Converts mutli parts geojson to many single part geojsons and vice-versa.",
+  "main": "index.js",
+  "keywords": [
+    "geojson",
+    "multipoint",
+    "mutlilinestring",
+    "multipolygon"
+  ],
+  "author": "Gagan Bansal",
+  "license": "MIT"
+}
