@@ -1,6 +1,6 @@
 {
   "name": "multigeojson",
-  "version": "0.0.0",
+  "version": "0.0.1",
   "description": "Converts mutli parts geojson to many single part geojsons and vice-versa.",
   "main": "index.js",
   "keywords": [
@@ -9,6 +9,10 @@
     "mutlilinestring",
     "multipolygon"
   ],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/geosquare/multigeojson"
+  },
   "author": "Gagan Bansal",
   "license": "MIT"
 }
